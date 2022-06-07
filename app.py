@@ -46,3 +46,15 @@
 #     print('Thank you!')
 
     
+operating_system = ['Windows', 'Mac', 'Linux']
+print(operating_system)
+
+operating_system.append('Android')
+print(operating_system)
+
+operating_system.insert(1, 'iOS')
+print(operating_system)
+
+number = 20
+
+print(type(number))
